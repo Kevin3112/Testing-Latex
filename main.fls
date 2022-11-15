@@ -1,8 +1,8 @@
-PWD c:/Users/asliy/Documents/Git/Testing-Latex
+PWD c:/Users/hermann/Desktop/Latex test
 INPUT c:/texlive/2022/texmf.cnf
 INPUT c:/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/asliy/Documents/Git/Testing-Latex/main.tex
+INPUT c:/Users/hermann/Desktop/Latex test/main.tex
 OUTPUT main.log
 INPUT c:/texlive/2022/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
 INPUT c:/texlive/2022/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
